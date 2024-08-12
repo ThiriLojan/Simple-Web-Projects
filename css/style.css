@@ -1214,23 +1214,3 @@ body {
     font-size: 18px; /* Smaller arrow buttons */
   }
 }
-
-@media (max-width: 480px) {
-  .topbar {
-    flex-direction: column;
-  }
-
-  .project-title {
-    font-size: 1.25rem;
-  }
-
-  .gallery-grid {
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 8px;
-  }
-
-  .modal-content {
-    width: 100%;
-    max-width: 90vw;
-  }
-}
