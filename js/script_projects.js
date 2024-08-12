@@ -42,9 +42,9 @@ function closeModal() {
 // Change Image For Project 1
 let currentIndex = 0;
 const images = [
-  "/assets/images/Projects/Hotel Management System/1.png",
-  "/assets/images/Projects/Hotel Management System/2.png",
-  "/assets/images/Projects/Hotel Management System/3.png"
+  "../assets/images/Projects/Hotel Management System/1.png",
+  "../assets/images/Projects/Hotel Management System/2.png",
+  "../assets/images/Projects/Hotel Management System/3.png"
   // Add more image paths as needed
 ];
 
@@ -76,10 +76,10 @@ function changeSlide(direction) {
 // Change Image For Project 2
 let currentIndex2 = 0;
 const images2 = [
-  "/assets/images/Projects/Track's Number & PhoneBook/1.png",
-  "/assets/images/Projects/Track's Number & PhoneBook/2.png",
-  "/assets/images/Projects/Track's Number & PhoneBook/3.png",
-  "/assets/images/Projects/Track's Number & PhoneBook/4.png"
+  "../assets/images/Projects/Track's Number & PhoneBook/1.png",
+  "../assets/images/Projects/Track's Number & PhoneBook/2.png",
+  "../assets/images/Projects/Track's Number & PhoneBook/3.png",
+  "../assets/images/Projects/Track's Number & PhoneBook/4.png"
   // Add more image paths as needed
 ];
 
