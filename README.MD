@@ -10,12 +10,12 @@ This repository includes multiple simple web applications created with basic fro
 
 ## **List of Projects**
 
-1. **[Personal Portfolio](./Personal_Portfolio)**
+1. **[Personal Portfolio](./Personal%20Portfolio)**
 
    - A simple personal portfolio website built with HTML, CSS, and JavaScript. It showcases the developer's skills, projects, and contact information.
    - **Tech Stack**: HTML, CSS, JavaScript
 
-2. **[Music Player](./Music_Player)**
+2. **[Music Player](./Music-Player)**
 
    - A Music Player with a smooth album art slider animation using Swiper CSS, showcasing a collection of music tracks in a row.
    - **Tech Stack**: HTML, CSS (Swiper CSS for Slider Animations), JavaScript
