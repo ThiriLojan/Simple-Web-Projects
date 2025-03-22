@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Player with Slider | Swiper JS</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css'>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css'>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+</head>
+
+<body>
+    <!-- Header Section -->
+    <div class="header">
+      <div class="theme-toggle">
+          <button id="darkModeToggle">
+              <i id="themeIcon" class="fas fa-moon"></i>
+          </button>
+      </div>
+    </div>
+
+    <!-- Folder Section -->
+    <div class="folder-container">
+      <button id="folder-btn">📂 Select Folder</button>
+      <div id="folder"></div>
+    </div>
+
+    
+
+    <!-- Music Player Section -->
+    <div class="album-cover">
+        <div class="swiper">
+            <div class="swiper-wrapper">
+                <!-- Dynamic slides will be added here via JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <div class="music-player">
+        <h1 id="songTitle">Title</h1>
+        <p id="songName">Song Name</p>
+
+        <audio id="song" controls hidden></audio>
+
+        <input type="range" value="0" id="progress" />
+
+        <div class="controls">
+            <button class="backward">
+                <i class="fa-solid fa-backward"></i>
+            </button>
+            <button class="play-pause-btn">
+                <i class="fa-solid fa-play" id="controlIcon"></i>
+            </button>
+            <button class="forward">
+                <i class="fa-solid fa-forward"></i>
+            </button>
+        </div>
+    </div>
+
+    <script src='https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js'></script>
+    <script src="./script.js"></script>
+</body>
+</html>
