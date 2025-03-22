@@ -18,7 +18,7 @@ This repository includes multiple simple web applications created with basic fro
 2. **Music Player**
 
    - A Music Player with a smooth album art slider animation using Swiper CSS, showcasing a collection of music tracks in a row.
-   - **Tech Stack**: HTML, CSS (Swiper CSS for slider animations), JavaScript
+   - **Tech Stack**: HTML, CSS (Swiper CSS for Slider Animations), JavaScript
 
 
 
