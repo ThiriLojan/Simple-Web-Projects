@@ -1,29 +1,33 @@
 # **Personal Portfolio**
 
-This repository contains the code for my personal portfolio website. It showcases my skills, projects, and provides a contact form for potential employers or clients to reach out. The portfolio demonstrates my knowledge of web development using basic frontend technologies.
+Welcome to my **Personal Portfolio** — a showcase of my skills, projects, and experiences. This portfolio is designed to provide visitors with an insight into my background, achievements, and the work I've accomplished.
 
-## **Introduction**
+## **Live Demo**
+🔗 [**View Live Demo**](https://thirilojan.github.io/Portfolio)
 
-The personal portfolio website highlights my background, projects, and technical skills. It is a simple yet effective way of presenting who I am as a web developer. The website is responsive and user-friendly, designed to provide an engaging and informative experience for visitors.
-
+## **About**
+This portfolio serves as a digital resume, featuring a clean and interactive interface to present my skills, projects, and contact information. It’s designed with a focus on simplicity, responsiveness, and user engagement.
 
 ## **Features**
-
-- Projects: A collection of web development projects with descriptions, live demos, GitHub links, and technologies used.
-
-- Resume Section: Displays professional experience, education, technical skills, and technology stack in an organized layout.
-
-- Certificates: A section showcasing earned certifications with details and links to the digital certificates.
-
-- Contact Form: A simple form that allows users to contact me directly from the website.
+→	 Clean and modern UI design  
+→	 Interactive animations and smooth transitions  
+→	 Responsive design for mobile, tablet, and desktop devices  
+→	 Easy navigation with a user-friendly layout  
+→	 Dedicated sections for:  
+  - **About Me**  
+  - **Projects Showcase**  
+  - **Skills & Expertise**  
+  - **Contact Information**  
 
 
 ## **Tech Stack**
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
 
-This project use basic frontend technologies to demonstrate core web development skills.
 
-### **Frontend:**
+## **Usage**
 
-- HTML
-- CSS
-- JavaScript
+- Visit the Live Demo for an interactive experience.
+
+- Explore the sections to learn more about my skills and projects.
