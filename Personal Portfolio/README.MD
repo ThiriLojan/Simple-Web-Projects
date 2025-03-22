@@ -21,8 +21,8 @@ This portfolio serves as a digital resume, featuring a clean and interactive int
 
 
 ## **Tech Stack**
-- **HTML5**  
-- **CSS3**  
+- **HTML**  
+- **CSS**  
 - **JavaScript**  
 
 
